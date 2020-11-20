@@ -1,13 +1,50 @@
+nav{background: black;}
+
 body {
-    background-color: #000000;
+    background-color: #0bd3d3;
   }
 
 footer {
     color: #ffffff;
 }
 
+p {
+  margin-top: auto;
+  font-size: smaller;
+}
 
-/* Background will be added at future date */
-  /*section {
-    background: url("Photos/sample.jpg");
-}*/
+#image{
+  margin-bottom: 10rem;
+}
+
+a{
+  color: black;
+}
+
+#main {
+  border: solid;
+  
+  margin-bottom: 5rem;
+}
+
+
+
+
+#havasu{
+  padding-right: 0;
+}
+
+.project{
+  background: #f890e7;
+}
+.projects{
+  border: solid;
+}
+
+#contact{
+  color:  white;
+}
+
+#contactMe{
+  background-color: black;
+}
